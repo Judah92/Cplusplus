@@ -33,6 +33,7 @@ int main()
             cout << ", ";
         }
     }
+    cout << endl << "Number of Books in the Vector: " << allTheBooks.size() << endl;
 
     return 0;
 }
